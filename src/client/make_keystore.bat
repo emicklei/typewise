@@ -1,0 +1,1 @@
+keytool -genkey -alias typewise -keystore keystore -validity 360
